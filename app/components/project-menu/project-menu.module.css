@@ -1,0 +1,3 @@
+.link {
+  @apply hover:bg-slate-700 hover:text-white px-4 py-2;
+}

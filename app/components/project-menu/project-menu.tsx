@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "@components/Project-Menu/project-menu.module.css";
+import styles from "@components/project-menu/project-menu.module.css";
 
 export default function ProjectMenu() {
   return (
